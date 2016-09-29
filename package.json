@@ -1,0 +1,12 @@
+{
+    "name": "@types/pdfkit",
+    "version": "1.0.0",
+    "author": "co.mmons",
+    "private": false,
+    "license": "MIT",
+    "types": "pdfkit.d.ts",
+
+    "dependencies": {
+        "@types/node": "^6.0.41"
+    }
+}
